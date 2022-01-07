@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Front-End em transição de carreira.
 
-Atualmente estou cursando Engenharia da Computação pela Univesp e Web Development pela Brigham Young University - Idaho;
+Atualmente estou cursando Engenharia da Computação pela Univesp e Web & Computer Programming pela Brigham Young University - Idaho;
 
 <div align="center">
   <a href="https://github.com/FelipeSud">
