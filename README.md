@@ -1,8 +1,17 @@
-## Olá! Eu sou o Felipe Belisário👋
+## Hi! I'm Felipe Belisário👋
 
-Sou Desenvolvedor Front-End em transição de carreira.
+I'm a Junior Front-End Developer, looking for my first job opportunity in Web Development.
 
-Atualmente estou cursando Engenharia da Computação pela Univesp e Web & Computer Programming pela Brigham Young University - Idaho;
+I've knowledge in Logic, Algorithms, Git, GitHub, HTML 5, CSS 3, javaScript, jQuery, Bootstrap, and basics of React.js, Python, and Django
+
+ I'm currently a Computer Engineering student at Univesp and Web and Computer Development at Brigham Young University Idaho.
+
+I'm proficient in the English Language - an advanced level in reading, writing, listening, and speaking.
+My native language is Portuguese.
+
+I am proactive, honest, learned leadership skills, and I am totally open to learning new hard and soft skills.
+
+My personal website: http://fsbelisario.com.br/
 
 <div align="center">
   <a href="https://github.com/FelipeSud">
