@@ -2,7 +2,7 @@
 
 I'm a Junior Front-End Developer, looking for my first job opportunity in Web Development.
 
-I've knowledge in Logic, Algorithms, Git, GitHub, HTML 5, CSS 3, javaScript, jQuery, Bootstrap, and basics of Angular 2, Python, and Django
+I've knowledge in Logic, Algorithms, Git, GitHub, HTML 5, CSS 3, javaScript, jQuery, Bootstrap, and basics of Angular, Python, and Django
 
  I'm currently a Computer Engineering student at Univesp and Web and Computer Development at Brigham Young University Idaho.
 
