@@ -2,7 +2,7 @@
 
 I'm a Junior Front-End Developer, looking for my first job opportunity in Web Development.
 
-I've knowledge in Logic, Algorithms, Git, GitHub, HTML 5, CSS 3, javaScript, jQuery, Bootstrap, and basics of React.js, Python, and Django
+I've knowledge in Logic, Algorithms, Git, GitHub, HTML 5, CSS 3, javaScript, jQuery, Bootstrap, and basics of Angular 2, Python, and Django
 
  I'm currently a Computer Engineering student at Univesp and Web and Computer Development at Brigham Young University Idaho.
 
@@ -26,7 +26,7 @@ My personal website: http://fsbelisario.com.br/
      <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="Felipe-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
      <img align="center" alt="Felipe-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-     <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     <img align="center" alt="Felipe-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 
  
  
