@@ -2,7 +2,7 @@
 
 
 I'm an independent web developer under construction <br>
--⚙️  B.S in Applied Technology; Certificate in Web Development - BYU-Idaho 2022 ~ 2026
+-⚙️  B.S in Applied Technology; Certificate in Web Development - BYU-Idaho 2022 ~ 2026 <br>
 -⚙️  B.S in Computer Engineering - Univesp - 2018 ~ 2023
 
 
