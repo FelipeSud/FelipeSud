@@ -24,17 +24,17 @@ I'm an independent web developer under construction <br>
     <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/vue-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></td>
+     <td><img src="https://img.shields.io/badge/php-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/javascript-%23181717.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"></td>
     <td><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/vsCode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/vsCode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"></td>   
+    <td><img src="https://img.shields.io/badge/vue-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/php-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/express-707070.svg?&style=for-the-badge&logo=express&logoColor=white"></td>
      <td><img src="https://img.shields.io/badge/linux-%23181717.svg?&style=for-the-badge&logo=linux&logoColor=white"></td>
     <td></td>
    
