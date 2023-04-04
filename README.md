@@ -36,14 +36,14 @@ I'm an independent web developer under construction <br>
     <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/express-707070.svg?&style=for-the-badge&logo=express&logoColor=white"></td>
      <td><img src="https://img.shields.io/badge/linux-%23181717.svg?&style=for-the-badge&logo=linux&logoColor=white"></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/gitlab-%23F05032.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></td>
    
   </tr>
   <tr>    
     <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/python-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/apache-%23E34F26.svg?&style=for-the-badge&logo=apache&logoColor=white"></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/bitbucket-%23007ACC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"></td>
   </tr>
 </table>
 
