@@ -18,13 +18,13 @@ I'm an independent web developer under construction <br>
     <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/wordpress-%23007ACC.svg?&style=for-the-badge&logo=wordpress&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></td>
-     <td><img src="https://img.shields.io/badge/php-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white"></td>
+     <td></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/javascript-%23181717.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"></td>
@@ -43,7 +43,7 @@ I'm an independent web developer under construction <br>
   <tr>    
     <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/python-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/postman-%23E34F26.svg?&style=for-the-badge&logo=postman&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/render-3bad98.svg?&style=for-the-badge&logo=render&logoColor=white"></td>
 <!--     <td><img src="https://img.shields.io/badge/bitbucket-%23007ACC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"></td> -->
     <td></td>
   </tr>
