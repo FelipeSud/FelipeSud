@@ -50,6 +50,12 @@ I'm a web developer under construction <br>
   </tr>
 </table>
 
+<div align="center">
+  <a href="https://github.com/FelipeSud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeSud&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSud&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ### 🤝🏽 Let's Connect!
 <a href="https://www.linkedin.com/in/felipe-belisario/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/felipesud"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="mailto:felipe@fsbelisario.com.br"><img src="https://img.shields.io/badge/email-%23563D7C.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://fsbelisario.com.br"><img src="https://img.shields.io/badge/website-%23181717.svg?&style=for-the-badge&logo=firefox&logoColor=white">
 <!-- </a> <a href="https://api.whatsapp.com/send?phone=5512992567158&text=Hi!%20How%20are%20you?%20I%20saw%20your%20GitHub's%20repository
