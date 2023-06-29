@@ -2,7 +2,7 @@
 
 
 I'm a web developer under construction <br>
-- Software Developer Intern at Ericsson <img src="https://img.shields.io/badge/ericsson-fb8c00.svg?&style=for-the-badge&logo=ericsson&logoColor=white">
+- Software Developer Intern at Ericsson
 - B.S in Applied Technology; Certificate in Web Development - BYU-Idaho 2022 ~ 2026 <br>
 - B.S in Computer Engineering - Univesp - 2018 ~ 2023
 
