@@ -32,7 +32,7 @@ I'm a web developer under construction <br>
   <tr>
     <td><img src="https://img.shields.io/badge/javascript-%23181717.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"></td>
     <td><img src="https://img.shields.io/badge/.NET-%23563D7C.svg?&style=for-the-badge&logo=.NET&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/vsCode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"></td>   
+    <td><img src="https://img.shields.io/badge/gitlab-%23F05032.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></td>
 <!--     <td><img src="https://img.shields.io/badge/vue-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></td> -->
     <td></td>
   </tr>
@@ -48,7 +48,7 @@ I'm a web developer under construction <br>
     <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"></td>
 <!--     <td><img src="https://img.shields.io/badge/python-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"></td> -->
     <td></td>
-    <td><img src="https://img.shields.io/badge/gitlab-%23F05032.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/vsCode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"></td>   
 <!--     <td><img src="https://img.shields.io/badge/render-3bad98.svg?&style=for-the-badge&logo=render&logoColor=white"></td> -->
 <!--     <td><img src="https://img.shields.io/badge/bitbucket-%23007ACC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"></td> -->
     <td></td>  
