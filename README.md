@@ -2,7 +2,7 @@
 
 
 I'm a web developer under construction <br>
-- Software Developer Intern at Ericsson
+- Software Developer Intern @  <img src="https://custom-icon-badges.demolab.com/badge/Ericsson-white.svg?logo=ericsson&logoColor=white">
 - B.S in Applied Technology; Certificate in Web Development - BYU-Idaho 2022 ~ 2026 <br>
 - B.S in Computer Engineering - Univesp - 2018 ~ 2023
 
@@ -39,7 +39,7 @@ I'm a web developer under construction <br>
   <tr>
     <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></td>
 <!--     <td><img src="https://img.shields.io/badge/express-707070.svg?&style=for-the-badge&logo=express&logoColor=white"></td> -->
-    <td></td>
+    <td><img src="https://img.shields.io/badge/entity-ffffff.svg?&style=for-the-badge&logo=entity&logoColor=#1a89cf"></td>
      <td><img src="https://img.shields.io/badge/linux-%23181717.svg?&style=for-the-badge&logo=linux&logoColor=white"></td>
 <!--     <td><img src="https://img.shields.io/badge/gitlab-%23F05032.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></td> -->
    <td></td>  
