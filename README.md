@@ -3,7 +3,7 @@
 
 I'm a web developer under construction <br>
 - Software Developer Intern @  <img src="https://custom-icon-badges.demolab.com/badge/Ericsson-white.svg?logo=ericsson&logoColor=white">
-- B.S in Applied Technology; Certificate in Web Development - BYU-Idaho 2022 ~ 2026 <br>
+- B.S in Software Development - BYU-Idaho 2022 ~ 2026 <br>
 - B.S in Computer Engineering - Univesp - 2018 ~ 2023
 
 
