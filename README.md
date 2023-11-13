@@ -18,7 +18,6 @@ I'm a web developer under construction <br>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></td>
-<!--     <td><img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></td> -->
     <td><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"></td>
     <td></td>
     <td><img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"></td>
@@ -26,7 +25,6 @@ I'm a web developer under construction <br>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></td>
-<!--     <td><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></td> -->
       <td><img src="https://img.shields.io/badge/CSharp-%23563D7C.svg?&style=for-the-badge&logo=csharp&logoColor=white"></td>
     <td></td>
     <td><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></td>
@@ -37,29 +35,21 @@ I'm a web developer under construction <br>
     <td><img src="https://img.shields.io/badge/.NET-%23563D7C.svg?&style=for-the-badge&logo=.NET&logoColor=white"></td>
     <td></td>
     <td><img src="https://img.shields.io/badge/gitlab-%23F05032.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></td>
-<!--     <td><img src="https://img.shields.io/badge/vue-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></td> -->
     <td></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></td>
-<!--     <td><img src="https://img.shields.io/badge/express-707070.svg?&style=for-the-badge&logo=express&logoColor=white"></td> -->
     <td><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"></td>
     <td></td>
      <td><img src="https://img.shields.io/badge/linux-%23181717.svg?&style=for-the-badge&logo=linux&logoColor=white"></td>
-    <td></td>
-<!--     <td><img src="https://img.shields.io/badge/gitlab-%23F05032.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></td> -->
-   
+    <td></td>   
   </tr>
   <tr>    
     <td><img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"></td>
-<!--     <td><img src="https://img.shields.io/badge/python-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"></td> -->
     <td></td>
     <td></td>
     <td><img src="https://img.shields.io/badge/vsCode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"></td> 
-    <td></td>
-<!--     <td><img src="https://img.shields.io/badge/render-3bad98.svg?&style=for-the-badge&logo=render&logoColor=white"></td> -->
-<!--     <td><img src="https://img.shields.io/badge/bitbucket-%23007ACC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"></td> -->
-    
+    <td></td>    
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></td>
@@ -69,7 +59,14 @@ I'm a web developer under construction <br>
     <td></td>
   </tr>
 </table>
-
+<!--     <td><img src="https://img.shields.io/badge/render-3bad98.svg?&style=for-the-badge&logo=render&logoColor=white"></td> -->
+<!--     <td><img src="https://img.shields.io/badge/bitbucket-%23007ACC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"></td> -->
+<!--     <td><img src="https://img.shields.io/badge/python-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white"></td> -->
+<!--     <td><img src="https://img.shields.io/badge/gitlab-%23F05032.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></td> -->
+<!--     <td><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></td> -->
+<!--     <td><img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"></td> -->
+<!--     <td><img src="https://img.shields.io/badge/vue-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></td> -->
+<!--     <td><img src="https://img.shields.io/badge/express-707070.svg?&style=for-the-badge&logo=express&logoColor=white"></td> -->
 <div align="start">
   <a href="https://github.com/FelipeSud">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeSud&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
