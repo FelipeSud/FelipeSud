@@ -2,9 +2,9 @@
 
 
 I'm a web developer under construction <br>
-- Software Developer Intern @  <img src="https://custom-icon-badges.demolab.com/badge/Ericsson-white.svg?logo=ericsson&logoColor=white">
+- Software Developer @  <img src="https://custom-icon-badges.demolab.com/badge/Ericsson-white.svg?logo=ericsson&logoColor=white">
 - B.S in Software Development - BYU-Idaho 2022 ~ 2026 <br>
-- B.S in Computer Engineering - Univesp - 2018 ~ 2023
+- B.S in Computer Engineering - Univesp - 2018 ~ 2024
 
 
 ### 🚀 My Skills:
@@ -39,7 +39,7 @@ I'm a web developer under construction <br>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"></td>
+<!--     <td><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"></td> -->
     <td></td>
      <td><img src="https://img.shields.io/badge/linux-%23181717.svg?&style=for-the-badge&logo=linux&logoColor=white"></td>
     <td></td>   
