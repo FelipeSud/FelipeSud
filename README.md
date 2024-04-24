@@ -40,7 +40,7 @@ I'm a web developer under construction <br>
   <tr>
     <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"></td>
 <!--     <td><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"></td> -->
-    <td></td>
+    <td><img src="https://img.shields.io/badge/swagger-%23339933.svg?&style=for-the-badge&logo=swagger&logoColor=white"></td>
     <td></td>
      <td><img src="https://img.shields.io/badge/linux-%23181717.svg?&style=for-the-badge&logo=linux&logoColor=white"></td>
     <td></td>   
@@ -56,7 +56,7 @@ I'm a web developer under construction <br>
     <td><img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white"></td>
     <td></td>
     <td></td>
-    <td></td>
+   <td></td>
     <td></td>
   </tr>
 </table>
